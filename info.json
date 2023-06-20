@@ -1,1 +1,31 @@
+{"name":"Cerebrum DAO",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"A community-driven translational research funding engine for brain health and accelerating solutions and cures to neurodegeneration.",
+"whitePaperLink":"http://cerebrumdao.com/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/eRKnHgb.jpg",
+       "source": "image",
+       "link": "https://twitter.com/Cerebrum_DAO/status/1658523647005564930"
+   }
+],
+"deleted":false,
+"primaryColor":"#927efe",
+"twitterHandle":"Cerebrum_DAO",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/EIf2TNw.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"http://cerebrumdao.com/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+
+"tags":["Ecosystems", "Focused Research", "NFTs", "Decentralized funding"]
+  
+}
+
 
